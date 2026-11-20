@@ -1,0 +1,28 @@
+{
+  "name": "digiplexx-os-library",
+  "owner": {
+    "name": "Digiplexx OS"
+  },
+  "plugins": [
+    {
+      "name": "readme-pro",
+      "source": "./plugins/readme-pro",
+      "description": "Schreibt ein README aus überprüfbaren Projektinformationen."
+    },
+    {
+      "name": "show-and-share",
+      "source": "./plugins/show-and-share",
+      "description": "Entwirft einen deutschen Show-&-Share-Beitrag für einen Skill oder eine Vorlage."
+    },
+    {
+      "name": "skill-teilen",
+      "source": "./plugins/skill-teilen",
+      "description": "Bereitet eine Skill-Einreichung für die Digiplexx OS Library vor."
+    },
+    {
+      "name": "skript-agent",
+      "source": "./plugins/skript-agent",
+      "description": "Entwirft Kurzvideos und Social-Posts aus einem Briefing und optionalen Quellen."
+    }
+  ]
+}
